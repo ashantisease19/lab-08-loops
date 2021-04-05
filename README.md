@@ -1,1 +1,1 @@
-# lab-08-loops
+# lab-08-for-loops
